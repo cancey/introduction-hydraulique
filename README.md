@@ -10,7 +10,7 @@ Voici les ressources mises en ligne :
 * 1_hauteur-normale : méthodes de calcul de la hauteur normale. Avec la fonction *fsolve* de SciPy ou avec des fonctions programmées (méthodes de la dichotomie et de Newton). Je montre aussi comment on peut obtenir le résultat par un développement limité.
 * 2_solveur-courbe-remous : solveur *odeint* de SciPy. Pour résoudre l'équation de la courbe de remous, on peut se servir du solveur *odeint*
 * 3_conjugaison-courbe : je fournis ici une solution détaillée de l'exemple de la conjugaison d'une courbe de remous au § 5.6.3
-* 4_Ecoulement obstacle : je montre comment la hauteur d'eau varie au passage d'un obstacle en fonction du nombre de Froude et de la hauteur de l'obstacle (§ 5.6.4)
+* 4_Ecoulement obstacle : je montre comment la hauteur d'eau varie au passage d'un obstacle en fonction du nombre de Froude et de la hauteur de l'obstacle. Dans ce cahier, je propose à la fois une solution classique fondée sur l'équation de Bernoulli  (§ 5.6.4 des notes de cours) et une solution numérique plus complète à l'aide de clawpack (qui nécessite une installation en parallèle ; voir le site https://www.clawpack.org). 
 
 On trouvera aussi des solutions numériques de certains exercices
 * problème 5.6
